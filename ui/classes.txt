@@ -1,0 +1,33 @@
+Do you mean,How to add meeting invitee in speaker meeting?
+Do you mean,How to Check Speaker meeting details in Veeva CRM/Veeva Online?
+Do you mean,How to come out from signature lock button missing issue?
+Do you mean,How to change Tiers in Veeva?
+Do you mean,How to place sample Order in Veeva?
+Do you mean,How to find previous sample disbursement transaction details?
+Do you mean,How to perform Refresh Database in Veeva CRM?
+Do you mean,How can you change the HCP address ? The address which is showing in your login is incorrect.?
+Do you mean,How to Create account list in Veeva CRM?
+Do you mean,How to create new profile for an HCP in Veeva CRM?
+Do you mean, add HCP & HCO parent child hierarchy?
+Do you mean,You have forgotten my iRep password/reset my iRep password?
+Do you mean,you want to get your territory ID?
+Do you mean,How to delete inventory error message in Veeva CRM?
+Do you mean,you are not able to sync your iRep?
+Do you mean,How to delete saved inventory?
+Do you mean, brake down HCP & HCO parent child hierarchy?
+Do you mean,How to Create time off territory?
+Do you mean,How to make sample confirmation?
+Do you mean,You want to assign role to a user?
+Do you mean,How can you change any field in HCP profile data? Like first name, last name, specialty, profile active/inactive?
+Do you mean,How to check alignment details for a HCP with You or territory?
+Do you mean,How can you change your personal details/phone number/address shown on my profile page ?
+Do you mean, you can see the HCP in your login but cannot record any activity against it (HCP Red X issue)?
+Do you mean,How to find previous sample order list?
+Do you mean,How to enter monthly sample inventory
+Do you mean,you want to get mobile number of an HCP?
+Do you mean,How to search and add HCP in Veeva CRM?
+Do you mean,How to remove signature from saved call?
+Do you mean,How to submit sample inventory?
+Do you mean,How to do sample transfer ?
+Do you mean,How to delete of update time off territory?
+Do you mean,How to check Tier Value for a HCP?
